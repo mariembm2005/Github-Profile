@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20Everyone!😸&textBg=false&animation=twinkling&reversal=false"/>
 </p>
-<div>
+<div style="align:center">
   <h2 style="text-align:center;">Let's connect and have a chat!😸</h2>
   <div class="socials">
     <a href="https://www.instagram.com/meary2005/">
